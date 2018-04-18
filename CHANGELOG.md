@@ -5,6 +5,7 @@
 Initial release with the following modules and functions:
 * Module: `dArrays`
     * Functions:
+        * `isArray`
         * `unique`
 * Module: `dFunctions`
     * Functions:
