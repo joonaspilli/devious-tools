@@ -1,11 +1,7 @@
 {
   "name": "devious-tools",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Another JavaScript utility library that you may or may not find useful.",
-  "keywords": ["javascript", "utility", "library" ],
-  "bugs": {
-    "email": "joonas_pilli@hotmail.com"
-  },
   "main": "./index.js",
   "module": "./bundles/devious-tools.esm.js",
   "scripts": {
@@ -15,6 +11,14 @@
   },
   "author": "Joonas Pilli",
   "license": "MIT",
+  "keywords": ["javascript", "utility", "library" ],
+  "bugs": {
+    "url": "https://github.com/joonaspilli/devious-tools/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joonaspilli/devious-tools.git"
+  },
   "devDependencies": {
     "jsdoc": "^3.5.5",
     "rollup": "^0.57.1",

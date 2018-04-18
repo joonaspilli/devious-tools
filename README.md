@@ -1,6 +1,6 @@
-# DeviousTools.js (1.0.0)
+# DeviousTools.js (1.0.1)
 
-> Another JavaScript utility library that you may or may not find useful.
+Another JavaScript utility library that you may or may not find useful.
 
 ## What is this?
 

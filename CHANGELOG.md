@@ -1,7 +1,9 @@
 # Changelog
 
-## 1.0.0
+## 1.0.1
+* Minor changes to related files.
 
+## 1.0.0
 Initial release with the following modules and functions:
 * Module: `dArrays`
     * Functions:
