@@ -1,0 +1,6 @@
+docs/
+config.js
+rollup.config.js
+jsdoc.json
+package-lock.json
+.gitignore

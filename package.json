@@ -1,0 +1,24 @@
+{
+  "name": "devious-tools",
+  "version": "1.0.0",
+  "description": "Another JavaScript utility library that you may or may not find useful.",
+  "keywords": ["javascript", "utility", "library" ],
+  "bugs": {
+    "email": "joonas_pilli@hotmail.com"
+  },
+  "main": "./index.js",
+  "module": "./bundles/devious-tools.esm.js",
+  "scripts": {
+    "build": "npx rollup -c rollup.config.js",
+    "docs": "npx jsdoc -c jsdoc.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joonas Pilli",
+  "license": "MIT",
+  "devDependencies": {
+    "jsdoc": "^3.5.5",
+    "rollup": "^0.57.1",
+    "rollup-plugin-commonjs": "^9.1.0",
+    "rollup-plugin-uglify": "^3.0.0"
+  }
+}
