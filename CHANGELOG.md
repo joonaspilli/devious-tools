@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+* Added a link to documentation.
+* Minor changes to README.
+
 ## 1.0.1
 * Minor changes to related files.
 

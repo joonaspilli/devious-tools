@@ -1,6 +1,6 @@
 {
   "name": "devious-tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Another JavaScript utility library that you may or may not find useful.",
   "main": "./index.js",
   "module": "./bundles/devious-tools.esm.js",

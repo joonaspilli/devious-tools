@@ -1,4 +1,4 @@
-# DeviousTools.js (1.0.1)
+# DeviousTools.js
 
 Another JavaScript utility library that you may or may not find useful.
 
@@ -56,7 +56,11 @@ import { deepMerge } from 'devious-tools/dObjects/deepMerge';
 import DeviousTools from './devious-tools.esm.js';
 ```
 
-When using webpack and ES modules, importing single modules or functions may cause errors. This is because webpack doesn't support mixing CJS and ESM -styled exporting/importing in modules. An easy solution is to just import the full library instead.
+When using webpack and ES modules, importing single modules or functions <strong>may</strong> cause errors. This is because webpack doesn't support mixing CJS and ESM -styled exporting/importing in modules. An easy solution is to just import the full library instead.
+
+## Documentation
+
+[Documentation is available here.](http://joonaspilli.com/devious-tools/docs/)
 
 ## Development
 
